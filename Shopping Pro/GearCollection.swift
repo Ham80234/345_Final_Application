@@ -1,0 +1,3 @@
+class Settign:  {
+    <#code#>
+}
